@@ -1,0 +1,7 @@
+hwDetect:    "<0112>"
+gxDepthBits: "<32>"
+gxResolution:"<1024*768>"
+gxRefresh：  "<60>"
+fullAlpha    "<1>"
+lodDist：    "<100.0>"
+DisCull      "<500.0>"
